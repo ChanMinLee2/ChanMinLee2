@@ -7,4 +7,4 @@
 
 ## my github rank 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanminLee&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanMinLee2&show_icons=true&theme=tokyonight)
