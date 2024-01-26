@@ -9,6 +9,8 @@
 
 ![c](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=blue)
 
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+
 ## my github rank 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanMinLee2&show_icons=true&theme=tokyonight)
