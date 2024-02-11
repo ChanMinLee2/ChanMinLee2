@@ -1,4 +1,4 @@
-### chan min Lee 👋
+### Hi! I'm chan min Lee 👋
 
 ### I upload to learn programming and to solve algorithm problem of BOJ
 
