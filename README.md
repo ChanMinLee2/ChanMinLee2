@@ -16,3 +16,8 @@
 ## my github stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanMinLee2&show_icons=true&theme=tokyonight)
+
+
+## baekjoon profile
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlcksals87)](https://solved.ac/dlcksals87)
