@@ -11,7 +11,6 @@
 
 ![c](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=blue)
 
--- 자바 뱃지
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 
 ## my github stats
