@@ -13,6 +13,9 @@
 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFF"/> 
+
+
 ## my github stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanMinLee2&show_icons=true&theme=tokyonight)
