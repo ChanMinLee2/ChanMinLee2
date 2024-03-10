@@ -16,6 +16,8 @@
 
 ![chanminLee2 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=chanminLee2)
 
+![chanminLee2 github-trophies](https://stats.dooboo.io/api/github-trophies?login=chanminLee2)
+
 ## language usage
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chanminlee2&show_icons=true&locale=en&layout=compact" alt="chanminlee2" />
