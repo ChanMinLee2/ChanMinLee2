@@ -16,7 +16,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanMinLee2&show_icons=true&theme=tokyonight)
 
+## language usage
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chanminlee2&show_icons=true&locale=en&layout=compact" alt="chanminlee2" /></p>
+
 
 ## baekjoon profile
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlcksals87)](https://solved.ac/dlcksals87)
+
