@@ -14,7 +14,7 @@
 
 ## my github stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanMinLee2&show_icons=true&theme=tokyonight)
+![chanminLee2 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=chanminLee2)
 
 ## language usage
 
