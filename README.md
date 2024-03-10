@@ -18,7 +18,7 @@
 
 ## language usage
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chanminlee2&show_icons=true&locale=en&layout=compact" alt="chanminlee2" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=chanminlee2&show_icons=true&locale=en&layout=compact" alt="chanminlee2" />
 
 
 ## baekjoon profile
