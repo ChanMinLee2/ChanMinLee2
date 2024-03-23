@@ -14,8 +14,6 @@
 
 ## my github stats
 
-![chanminLee2 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=chanminLee2)
-
 ![chanminLee2 github-trophies](https://stats.dooboo.io/api/github-trophies?login=chanminLee2)
 
 ## language usage
