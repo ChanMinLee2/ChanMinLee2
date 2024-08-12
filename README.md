@@ -22,6 +22,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chanminlee2&show_icons=true&locale=en&layout=compact" alt="chanminlee2" />
 
 
+## my favorite IDEs
+
+[![wakatime](https://wakatime.com/badge/user/d79b1d8e-514e-4b37-a51a-e709692f64db.svg)](https://wakatime.com/@d79b1d8e-514e-4b37-a51a-e709692f64db)
+
 ## Baekjoon Online Judje(BOJ) Profile
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlcksals87)](https://solved.ac/dlcksals87)
