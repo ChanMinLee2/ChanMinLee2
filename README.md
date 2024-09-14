@@ -30,7 +30,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlcksals87)](https://solved.ac/dlcksals87)
 
-## streak
+## Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=chanminLee2)](https://git.io/streak-stats)
 
