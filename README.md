@@ -22,7 +22,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chanminlee2&show_icons=true&locale=en&layout=compact" alt="chanminlee2" />
 
 
-## IDE usage time from 2024/8
+## IDE usage time from 2024/8/23
 
 [![wakatime](https://wakatime.com/badge/user/d79b1d8e-514e-4b37-a51a-e709692f64db.svg)](https://wakatime.com/@d79b1d8e-514e-4b37-a51a-e709692f64db)
 
