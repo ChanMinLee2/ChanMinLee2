@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=github_profile&fontSize=90)
 
-### Hello! I'm chan min Lee 👋
+### Hello! I'm chanmin Lee 👋
 
 ### I upload to learn programming, to challenge competitions and to solve algorithm problem of BOJ
 
