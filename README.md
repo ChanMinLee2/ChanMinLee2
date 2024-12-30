@@ -35,4 +35,4 @@
 
 ## Contact
 
-mail : dlcksals87@gmail.com
+email : dlcksals87@gmail.com
